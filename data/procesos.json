@@ -1,0 +1,9 @@
+{
+  "quantum": 2,
+  "procesos": [
+    {"pid": "P1", "nombre": "Lomo saltado", "llegada": 0, "rafaga": 6, "prioridad": 2},
+    {"pid": "P2", "nombre": "Ensalada", "llegada": 1, "rafaga": 2, "prioridad": 3},
+    {"pid": "P3", "nombre": "Sopa", "llegada": 2, "rafaga": 3, "prioridad": 1},
+    {"pid": "P4", "nombre": "Pasta", "llegada": 4, "rafaga": 4, "prioridad": 2}
+  ]
+}

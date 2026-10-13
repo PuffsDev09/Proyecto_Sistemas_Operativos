@@ -1,0 +1,7 @@
+{
+  "capacidad": 3,
+  "productores": 2,
+  "consumidores": 2,
+  "pedidos_por_productor": 4,
+  "pausa_ms": 5
+}
